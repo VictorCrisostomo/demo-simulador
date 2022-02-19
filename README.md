@@ -80,6 +80,6 @@ Clique no link abaixo para ter acesso a uma demonstração do projeto:
 
 ## 📜 Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/VictorCrisostomo/demo-simulador/blob/main/LICENSE.MD) para mais detalhes.
 
 ---
